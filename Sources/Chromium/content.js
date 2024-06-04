@@ -2,13 +2,13 @@ const ticketTitleElement = document.getElementById("summary-val");
 const ticketNumberElement = document.getElementById("key-val");
 
 const transformations = [
-    [/\n/g, "-"],       // Replace newline characters with hyphens
-    [/[^a-zA-Z0-9\s\-/]/g, ""], // Remove non-alphanumeric characters except space, hyphen, and slash
-    [/\s/g, "-"],       // Replace spaces with hyphens
-    [/\//g, "-"],       // Replace slashes with hyphens
-    [/:/g, ""],         // Remove colons
-    [/-+/g, "-"],       // Replace consecutive hyphens with a single hyphen
-    [/^-+|-+$/g, ""]    // Remove hyphens from the beginning and end
+    [/\n/g, "-"],                 // Replace newline characters with hyphens
+    [/[^a-zA-Z0-9\s\-/.]/g, ""],  // Remove non-alphanumeric characters except space, hyphen, slash, and dot
+    [/\s/g, "-"],                 // Replace spaces with hyphens
+    [/\//g, "-"],                 // Replace slashes with hyphens
+    [/:/g, ""],                   // Remove colons
+    [/-+/g, "-"],                 // Replace consecutive hyphens with a single hyphen
+    [/^-+|-+$/g, ""]              // Remove hyphens from the beginning and end
 ];
 
 if (ticketTitleElement && ticketNumberElement) {
