@@ -10,7 +10,7 @@
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		Vz3MSwpe7H/PxakgkBaTyWSgrfs=
+		SvobnVBK033yaIEEgyM+DIIKg0Q=
 		</data>
 		<key>Resources/Base.lproj/Main.html</key>
 		<data>
@@ -18,19 +18,19 @@
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/Info.plist</key>
 		<data>
-		GlRqssuNEg2oDUV72hghFDipFO0=
+		qRdCIW7wLIJOT/ZIq7xQRBVMVYk=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/MainMenu.nib</key>
 		<data>
-		OLctRqKKKjLCGnh0dTBE0xzqOis=
+		5aFdiArD0GbAfJS2ieCP0clCICM=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib</key>
 		<data>
-		zb3afEJOZHmskJ+ya2SQ/YXYhX8=
+		T8IsVbph9K5aZwwixJ6Y8hO/mJc=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib</key>
 		<data>
-		oUtyndh3WbfE4iEdF39J5i5s5qY=
+		37n6UAnjv/VwL0bLuAbrbOQH5wg=
 		</data>
 		<key>Resources/Icon.png</key>
 		<data>
@@ -43,6 +43,26 @@
 		<key>Resources/Style.css</key>
 		<data>
 		jmfSY7ip+LLQdF7ltwtWtMOUYWY=
+		</data>
+		<key>Resources/content.js</key>
+		<data>
+		Y5asPbk1uDV1euK91jEJZfXt5x0=
+		</data>
+		<key>Resources/icon128.png</key>
+		<data>
+		vI6iHGw8YGOzHP8Z5v2t0TfmZhM=
+		</data>
+		<key>Resources/icon16.png</key>
+		<data>
+		jGfcgmWJBrxGI9z4s+e7sqMVpOU=
+		</data>
+		<key>Resources/icon48.png</key>
+		<data>
+		NrTugvRJxoMgANFJhGqI6sxBSqI=
+		</data>
+		<key>Resources/manifest.json</key>
+		<data>
+		qiz94JaqGj2zlWS0204Yz9puDDE=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -195,7 +215,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			TmUODwxrFvLd5DQ43MRflUrFg4k=
+			cerCe+NnOMxNpvyXtluAeEQ1RkI=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.AntonRomanchuk.JTTBN.Extension" and anchor apple generic and certificate leaf[subject.CN] = "Apple Development: Anton Romanchuk (6Q3E7G6MLE)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
@@ -211,7 +231,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vcsd2vR0BpTzF5D39Zo3gnjCFiP6w1Q3vIga0mI5mIg=
+			IVgQ6KibsQAqKhDeBWWjVw1+0IWXISscqKuWTDvJXB0=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.html</key>
@@ -225,28 +245,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			OKYH7f4tPDJkvk0WsDzQ2q6Z6ZGY2eraXC0UadWHF+s=
+			DFic9cDMF7DSZmAOU6/POF+mlHeeprEjzyHlZBqP8QM=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/MainMenu.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			k0Zza8XFSG4h4FUNceoKp+5GgjP8mrqnrtyAB8jfBZM=
+			TQ5pQfV4LrbSwJS/E1a9NQELCC37cMMTrfAJ2k/Hjao=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NjmiRJ3SR9Hf7Jg6q+7PUEiicyuUSMZ5/yPtXU3X16A=
+			RcIpDJ5Dtuzk0n+6e3DUXcAnCxwWBfPk4DTizr3iiU0=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fOclwE4/P6xdEjQO896UoB3JT3V2R21Vl7TXhjH0CCc=
+			Uxb0TUmMOFN26FAVj5ovm09o3l97Ehbm3rRf/+Tn2/w=
 			</data>
 		</dict>
 		<key>Resources/Icon.png</key>
@@ -268,6 +288,41 @@
 			<key>hash2</key>
 			<data>
 			Iyn8tL1LhG2ZHCWV/lFJ1fIbDsTt4KIsonLsJKP/rUs=
+			</data>
+		</dict>
+		<key>Resources/content.js</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			FHftVlXEgIIt1+4UMX8iJvAcVVOtw3Mg+GRjFUW6Ht8=
+			</data>
+		</dict>
+		<key>Resources/icon128.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			FG1CEEt/p7tm4gRc/rKeRGLb4MaPvNwF8jrj40yXuQI=
+			</data>
+		</dict>
+		<key>Resources/icon16.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			A0Q9Sf69isLJggoJrqJkybFk7d5zgaHcHOoI/x4cZDA=
+			</data>
+		</dict>
+		<key>Resources/icon48.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			A3yHEgkizSF3xLC6B3fabH13z9va0BDpQE97dnRlFIA=
+			</data>
+		</dict>
+		<key>Resources/manifest.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			a3mwFiQk+Q964y+GnYQqjryUJoPcSuUV8mwQ2B2NtMU=
 			</data>
 		</dict>
 	</dict>
